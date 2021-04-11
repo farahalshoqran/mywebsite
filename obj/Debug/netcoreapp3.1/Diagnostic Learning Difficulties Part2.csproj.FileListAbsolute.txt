@@ -1,0 +1,117 @@
+F:\GraduationProject\web site\Diagnostic Learning Difficulties Part2\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\GraduationProject\web site\Diagnostic Learning Difficulties Part2\bin\Debug\netcoreapp3.1\appsettings.json
+F:\GraduationProject\web site\Diagnostic Learning Difficulties Part2\bin\Debug\netcoreapp3.1\Diagnostic Learning Difficulties Part2.exe
+F:\GraduationProject\web site\Diagnostic Learning Difficulties Part2\bin\Debug\netcoreapp3.1\Diagnostic Learning Difficulties Part2.deps.json
+F:\GraduationProject\web site\Diagnostic Learning Difficulties Part2\bin\Debug\netcoreapp3.1\Diagnostic Learning Difficulties Part2.runtimeconfig.json
+F:\GraduationProject\web site\Diagnostic Learning Difficulties Part2\bin\Debug\netcoreapp3.1\Diagnostic Learning Difficulties Part2.runtimeconfig.dev.json
+F:\GraduationProject\web site\Diagnostic Learning Difficulties Part2\bin\Debug\netcoreapp3.1\Diagnostic Learning Difficulties Part2.dll
+F:\GraduationProject\web site\Diagnostic Learning Difficulties Part2\bin\Debug\netcoreapp3.1\Diagnostic Learning Difficulties Part2.pdb
+F:\GraduationProject\web site\Diagnostic Learning Difficulties Part2\bin\Debug\netcoreapp3.1\Diagnostic Learning Difficulties Part2.Views.dll
+F:\GraduationProject\web site\Diagnostic Learning Difficulties Part2\bin\Debug\netcoreapp3.1\Diagnostic Learning Difficulties Part2.Views.pdb
+F:\GraduationProject\web site\Diagnostic Learning Difficulties Part2\bin\Debug\netcoreapp3.1\FireSharp.dll
+F:\GraduationProject\web site\Diagnostic Learning Difficulties Part2\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+F:\GraduationProject\web site\Diagnostic Learning Difficulties Part2\bin\Debug\netcoreapp3.1\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+F:\GraduationProject\web site\Diagnostic Learning Difficulties Part2\bin\Debug\netcoreapp3.1\Microsoft.Threading.Tasks.Extensions.dll
+F:\GraduationProject\web site\Diagnostic Learning Difficulties Part2\bin\Debug\netcoreapp3.1\Microsoft.Threading.Tasks.dll
+F:\GraduationProject\web site\Diagnostic Learning Difficulties Part2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+F:\GraduationProject\web site\Diagnostic Learning Difficulties Part2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+F:\GraduationProject\web site\Diagnostic Learning Difficulties Part2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\GraduationProject\web site\Diagnostic Learning Difficulties Part2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+F:\GraduationProject\web site\Diagnostic Learning Difficulties Part2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+F:\GraduationProject\web site\Diagnostic Learning Difficulties Part2\bin\Debug\netcoreapp3.1\System.Net.Http.Extensions.dll
+F:\GraduationProject\web site\Diagnostic Learning Difficulties Part2\bin\Debug\netcoreapp3.1\System.Net.Http.Primitives.dll
+F:\GraduationProject\web site\Diagnostic Learning Difficulties Part2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\GraduationProject\web site\Diagnostic Learning Difficulties Part2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\GraduationProject\web site\Diagnostic Learning Difficulties Part2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\GraduationProject\web site\Diagnostic Learning Difficulties Part2\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+F:\GraduationProject\web site\Diagnostic Learning Difficulties Part2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\GraduationProject\web site\Diagnostic Learning Difficulties Part2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\GraduationProject\web site\Diagnostic Learning Difficulties Part2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\GraduationProject\web site\Diagnostic Learning Difficulties Part2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\GraduationProject\web site\Diagnostic Learning Difficulties Part2\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\GraduationProject\web site\Diagnostic Learning Difficulties Part2\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+F:\GraduationProject\web site\Diagnostic Learning Difficulties Part2\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+F:\GraduationProject\web site\Diagnostic Learning Difficulties Part2\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+F:\GraduationProject\web site\Diagnostic Learning Difficulties Part2\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+F:\GraduationProject\web site\Diagnostic Learning Difficulties Part2\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+F:\GraduationProject\web site\Diagnostic Learning Difficulties Part2\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+F:\GraduationProject\web site\Diagnostic Learning Difficulties Part2\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+F:\GraduationProject\web site\Diagnostic Learning Difficulties Part2\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+F:\GraduationProject\web site\Diagnostic Learning Difficulties Part2\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+F:\GraduationProject\web site\Diagnostic Learning Difficulties Part2\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+F:\GraduationProject\web site\Diagnostic Learning Difficulties Part2\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+F:\GraduationProject\web site\Diagnostic Learning Difficulties Part2\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+F:\GraduationProject\web site\Diagnostic Learning Difficulties Part2\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+F:\GraduationProject\web site\Diagnostic Learning Difficulties Part2\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+F:\GraduationProject\web site\Diagnostic Learning Difficulties Part2\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\GraduationProject\web site\Diagnostic Learning Difficulties Part2\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+F:\GraduationProject\web site\Diagnostic Learning Difficulties Part2\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+F:\GraduationProject\web site\Diagnostic Learning Difficulties Part2\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\GraduationProject\web site\Diagnostic Learning Difficulties Part2\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\GraduationProject\web site\Diagnostic Learning Difficulties Part2\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\GraduationProject\web site\Diagnostic Learning Difficulties Part2\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\GraduationProject\web site\Diagnostic Learning Difficulties Part2\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\GraduationProject\web site\Diagnostic Learning Difficulties Part2\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\GraduationProject\web site\Diagnostic Learning Difficulties Part2\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\GraduationProject\web site\Diagnostic Learning Difficulties Part2\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\GraduationProject\web site\Diagnostic Learning Difficulties Part2\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\GraduationProject\web site\Diagnostic Learning Difficulties Part2\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\GraduationProject\web site\Diagnostic Learning Difficulties Part2\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\GraduationProject\web site\Diagnostic Learning Difficulties Part2\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\GraduationProject\web site\Diagnostic Learning Difficulties Part2\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\GraduationProject\web site\Diagnostic Learning Difficulties Part2\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\GraduationProject\web site\Diagnostic Learning Difficulties Part2\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\GraduationProject\web site\Diagnostic Learning Difficulties Part2\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\GraduationProject\web site\Diagnostic Learning Difficulties Part2\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\GraduationProject\web site\Diagnostic Learning Difficulties Part2\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\GraduationProject\web site\Diagnostic Learning Difficulties Part2\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\GraduationProject\web site\Diagnostic Learning Difficulties Part2\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\GraduationProject\web site\Diagnostic Learning Difficulties Part2\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\GraduationProject\web site\Diagnostic Learning Difficulties Part2\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\GraduationProject\web site\Diagnostic Learning Difficulties Part2\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\GraduationProject\web site\Diagnostic Learning Difficulties Part2\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\GraduationProject\web site\Diagnostic Learning Difficulties Part2\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\GraduationProject\web site\Diagnostic Learning Difficulties Part2\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\GraduationProject\web site\Diagnostic Learning Difficulties Part2\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\GraduationProject\web site\Diagnostic Learning Difficulties Part2\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\GraduationProject\web site\Diagnostic Learning Difficulties Part2\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\GraduationProject\web site\Diagnostic Learning Difficulties Part2\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\GraduationProject\web site\Diagnostic Learning Difficulties Part2\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\GraduationProject\web site\Diagnostic Learning Difficulties Part2\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\GraduationProject\web site\Diagnostic Learning Difficulties Part2\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\GraduationProject\web site\Diagnostic Learning Difficulties Part2\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\GraduationProject\web site\Diagnostic Learning Difficulties Part2\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\GraduationProject\web site\Diagnostic Learning Difficulties Part2\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\GraduationProject\web site\Diagnostic Learning Difficulties Part2\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\GraduationProject\web site\Diagnostic Learning Difficulties Part2\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\GraduationProject\web site\Diagnostic Learning Difficulties Part2\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\GraduationProject\web site\Diagnostic Learning Difficulties Part2\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\GraduationProject\web site\Diagnostic Learning Difficulties Part2\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\GraduationProject\web site\Diagnostic Learning Difficulties Part2\obj\Debug\netcoreapp3.1\Diagnostic Learning Difficulties Part2.csprojAssemblyReference.cache
+F:\GraduationProject\web site\Diagnostic Learning Difficulties Part2\obj\Debug\netcoreapp3.1\Diagnostic Learning Difficulties Part2.AssemblyInfoInputs.cache
+F:\GraduationProject\web site\Diagnostic Learning Difficulties Part2\obj\Debug\netcoreapp3.1\Diagnostic Learning Difficulties Part2.AssemblyInfo.cs
+F:\GraduationProject\web site\Diagnostic Learning Difficulties Part2\obj\Debug\netcoreapp3.1\Diagnostic Learning Difficulties Part2.csproj.CoreCompileInputs.cache
+F:\GraduationProject\web site\Diagnostic Learning Difficulties Part2\obj\Debug\netcoreapp3.1\Diagnostic Learning Difficulties Part2.RazorAssemblyInfo.cache
+F:\GraduationProject\web site\Diagnostic Learning Difficulties Part2\obj\Debug\netcoreapp3.1\Diagnostic Learning Difficulties Part2.RazorAssemblyInfo.cs
+F:\GraduationProject\web site\Diagnostic Learning Difficulties Part2\obj\Debug\netcoreapp3.1\staticwebassets\Diagnostic Learning Difficulties Part2.StaticWebAssets.Manifest.cache
+F:\GraduationProject\web site\Diagnostic Learning Difficulties Part2\obj\Debug\netcoreapp3.1\staticwebassets\Diagnostic Learning Difficulties Part2.StaticWebAssets.xml
+F:\GraduationProject\web site\Diagnostic Learning Difficulties Part2\obj\Debug\netcoreapp3.1\scopedcss\bundle\Diagnostic Learning Difficulties Part2.styles.css
+F:\GraduationProject\web site\Diagnostic Learning Difficulties Part2\obj\Debug\netcoreapp3.1\Diagnostic Learning Difficulties Part2.TagHelpers.input.cache
+F:\GraduationProject\web site\Diagnostic Learning Difficulties Part2\obj\Debug\netcoreapp3.1\Diagnostic Learning Difficulties Part2.TagHelpers.output.cache
+F:\GraduationProject\web site\Diagnostic Learning Difficulties Part2\obj\Debug\netcoreapp3.1\Diagnostic Learning Difficulties Part2.RazorCoreGenerate.cache
+F:\GraduationProject\web site\Diagnostic Learning Difficulties Part2\obj\Debug\netcoreapp3.1\Razor\Views\Account\SignUp.cshtml.g.cs
+F:\GraduationProject\web site\Diagnostic Learning Difficulties Part2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+F:\GraduationProject\web site\Diagnostic Learning Difficulties Part2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+F:\GraduationProject\web site\Diagnostic Learning Difficulties Part2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+F:\GraduationProject\web site\Diagnostic Learning Difficulties Part2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\GraduationProject\web site\Diagnostic Learning Difficulties Part2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout1.cshtml.g.cs
+F:\GraduationProject\web site\Diagnostic Learning Difficulties Part2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\GraduationProject\web site\Diagnostic Learning Difficulties Part2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+F:\GraduationProject\web site\Diagnostic Learning Difficulties Part2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+F:\GraduationProject\web site\Diagnostic Learning Difficulties Part2\obj\Debug\netcoreapp3.1\Diagnostic Learning Difficulties Part2.RazorTargetAssemblyInfo.cache
+F:\GraduationProject\web site\Diagnostic Learning Difficulties Part2\obj\Debug\netcoreapp3.1\Diagnostic Learning Difficulties Part2.RazorTargetAssemblyInfo.cs
+F:\GraduationProject\web site\Diagnostic Learning Difficulties Part2\obj\Debug\netcoreapp3.1\Diagnostic Learning Difficulties Part2.Views.pdb
+F:\GraduationProject\web site\Diagnostic Learning Difficulties Part2\obj\Debug\netcoreapp3.1\Diagnostic Learning Difficulties Part2.csproj.CopyComplete
+F:\GraduationProject\web site\Diagnostic Learning Difficulties Part2\obj\Debug\netcoreapp3.1\Diagnostic Learning Difficulties Part2.dll
+F:\GraduationProject\web site\Diagnostic Learning Difficulties Part2\obj\Debug\netcoreapp3.1\Diagnostic Learning Difficulties Part2.pdb
+F:\GraduationProject\web site\Diagnostic Learning Difficulties Part2\obj\Debug\netcoreapp3.1\Diagnostic Learning Difficulties Part2.genruntimeconfig.cache
